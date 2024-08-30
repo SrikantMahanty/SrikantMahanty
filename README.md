@@ -100,5 +100,38 @@ I'm Srikant, an enthusiastic Android Developer with over a year of hands-on expe
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
+  </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unrealengine/unrealengine-icon.svg" alt="Unreal Engine" width="40" height="40"/>
+  </a>
+</p>
 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srikantmahanty&show_icons=true&locale=en" alt="Srikant's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikantmahanty&" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 📜 Top Repositories
+<p align="center">
+  <a href="https://github.com/SrikantMahanty/Android-Weather-App">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srikantmahanty&repo=Android-Weather-App&locale=en" />
+  </a>
+  <a href="https://github.com/SrikantMahanty/Notes-App">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=srikantmahanty&repo=Notes-App&locale=en" />
+  </a>
+</p>
