@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@srikantmahanty5" target="blank"><img src="https://img.shields.io/twitter/follow/@srikantmahanty5?logo=twitter&style=for-the-badge" alt="@srikantmahanty5" /></a> </p>
 
-- 🌱 I’m currently learningh **Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 📄 Know about my experiences [https://github.com/SrikantMahanty/SrikantMahanty/blob/main/SrikantMahanty_s_Resume%20(8).pdf](https://github.com/SrikantMahanty/SrikantMahanty/blob/main/SrikantMahanty_s_Resume%20(8).pdf)
 
